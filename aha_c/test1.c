@@ -1,4 +1,5 @@
 #include <stdio.h>
+//what/???
 int main()
 {
 	int a,b,c;
