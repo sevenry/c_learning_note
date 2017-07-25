@@ -1,4 +1,4 @@
-#include <stdio.h> 
+﻿#include <stdio.h> 
 #include <stdlib.h> 
 #include <string.h>
 
@@ -8,7 +8,7 @@ typedef struct node
 	struct node *no; 
 	struct node *yes;
 } node;
-
+//why
 int yes_no(char *question)//调用该函数的时候，接收的参数是create结构体问题，答案如果是y则有返回，否则无返回。
 {
 	char answer[3];
